@@ -4,3 +4,8 @@ This repository contains information about all the papers I read. The purpose is
 
 * 2018
   * The Matrix Calculus You Need For Deep Learning. [[arXiv](https://arxiv.org/abs/1802.01528v2?ref=hvper.com)]
+
+### Self-supervised learning
+
+* 2017
+  * Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation. [[arXiv][https://arxiv.org/pdf/1704.06888v1.pdf]]
