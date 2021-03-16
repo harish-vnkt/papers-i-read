@@ -4,6 +4,8 @@ This repository contains information about all the papers I read. The purpose is
 
 * 2018
   * The Matrix Calculus You Need For Deep Learning. [[arXiv](https://arxiv.org/abs/1802.01528v2?ref=hvper.com)]
+* 2017
+  * ADAM: A method for stochastic optimization. [[arXiv](https://arxiv.org/pdf/1412.6980.pdf)]
 
 ### Self-supervised learning
 
