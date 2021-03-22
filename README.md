@@ -14,5 +14,8 @@ This repository contains information about all the papers I read. The purpose is
 
 ### Architectures
 
+* 2017
+  * Deep Feature Flow for Video Recognition. [[arXiv](https://arxiv.org/pdf/1611.07715.pdf)]
+
 * 2015
   * Deep Residual Learning for Image Recognition. [[arXiv](https://arxiv.org/pdf/1512.03385.pdf)]
