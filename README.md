@@ -19,3 +19,13 @@ This repository contains information about all the papers I read. The purpose is
 
 * 2015
   * Deep Residual Learning for Image Recognition. [[arXiv](https://arxiv.org/pdf/1512.03385.pdf)]
+
+### GANs
+
+* 2018
+  * Image-to-Image Translation with Conditional Adversarial Networks. [[arXiv](https://arxiv.org/pdf/1611.07004.pdf)]
+
+### Super-resolution
+
+* 2018
+  * Multi-scale Residual Network for Image Super-Resolution. [[CVF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Juncheng_Li_Multi-scale_Residual_Network_ECCV_2018_paper.pdf)]
