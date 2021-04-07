@@ -29,3 +29,8 @@ This repository contains information about all the papers I read. The purpose is
 
 * 2018
   * Multi-scale Residual Network for Image Super-Resolution. [[CVF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Juncheng_Li_Multi-scale_Residual_Network_ECCV_2018_paper.pdf)]
+
+### Object detection
+
+* 2016
+  * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. [[arXiv](https://arxiv.org/pdf/1506.01497.pdf)]
