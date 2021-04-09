@@ -21,6 +21,9 @@ This repository contains information about all the papers I read. The purpose is
 * 2015
   * Deep Residual Learning for Image Recognition. [[arXiv](https://arxiv.org/pdf/1512.03385.pdf)]
 
+* 2014
+  * Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps. [[arXiv](https://arxiv.org/pdf/1312.6034.pdf)]
+
 ### GANs
 
 * 2018
