@@ -3,6 +3,7 @@ This repository contains information about all the papers I read. The purpose is
 ### Optimization
 * 2021
   * Adaptivity without Compromise: A Momentumized, Adaptive, Dual Averaged Gradient Method for Stochastic Optimization. [[arXiv](https://arxiv.org/pdf/2101.11075.pdf)]
+  * SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learing Systems. [[Link](https://www.cs.rice.edu/~as143/Papers/SLIDE_MLSys.pdf)]
 * 2018
   * The Matrix Calculus You Need For Deep Learning. [[arXiv](https://arxiv.org/abs/1802.01528v2?ref=hvper.com)]
 * 2017
