@@ -39,3 +39,8 @@ This repository contains information about all the papers I read. The purpose is
 
 * 2016
   * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. [[arXiv](https://arxiv.org/pdf/1506.01497.pdf)]
+
+### Others
+
+* 2021
+  * Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges. [[arXiv](https://arxiv.org/pdf/2104.13478.pdf)]
